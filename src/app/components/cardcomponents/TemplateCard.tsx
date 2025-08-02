@@ -1,9 +1,7 @@
 
 import MinimalCard, { MinimalCardDescription, MinimalCardImage, MinimalCardTitle } from '@/components/ui/minimal-card'
 import React from 'react'
-import card5 from '/public/card5.jpg'
-import card6 from '/public/card6.jpg'
-import card7 from '/public/card7.jpg'
+
 
 import BadgeButton from '@/components/ui/badge-button'
 
